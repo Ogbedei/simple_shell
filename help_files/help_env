@@ -1,4 +1,4 @@
-env: env
+nv: env
     Print environment
 
     Options:
