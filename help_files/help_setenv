@@ -1,4 +1,4 @@
-setenv: setenv
+etenv: setenv
     Set values of environment variables.
 
     Exit Status:
