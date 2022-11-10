@@ -1,2 +1,2 @@
 ls -l README.md
-cho 'uuu'
+echo 'uuu'
