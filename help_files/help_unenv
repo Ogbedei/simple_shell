@@ -1,4 +1,4 @@
-unsetenv: unsetenv
+nsetenv: unsetenv
 	Remove each NAME from the list of defined environment variables.
 
 	Options:
